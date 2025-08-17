@@ -1,7 +1,6 @@
 # 📊 Interactive Profile Statistics Display
 
-An engaging and modern **profile statistics display** built with **HTML, CSS, and JavaScript**, showcasing achievements like work experience, websites created, and apps developed.
-
+An engaging and modern **profile statistics display**: This project involves creating an interactive profile statistics display showcasing work experience, websites made, and apps made. The design centers around three icons from the Font Awesome library: a briefcase for work experience, a cloud for websites made, and an apple for apps made. Each icon is accompanied by a number that increments from zero to the final value, achieved using the JavaScript set time method to create a function that proportionally increments the number. This effect triggers every time the page loads. The design is styled with CSS to create a modern and sleek look. The end result is an engaging and visually appealing way to showcase professional accomplishments on a profile.
 ## 🎯 Objective
 
 The goal of this project is to provide a **visually appealing way** to highlight professional accomplishments on a personal or portfolio profile using animated counters and icons.
